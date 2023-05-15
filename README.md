@@ -1,5 +1,6 @@
-# cSkins #1 Primeiro Plugin java feito totalmente em Kotlin por mim.
+# cSkins 
 Plugin voltado a alteração de skins no Minecraft. (1.19)
+#1 Primeiro Plugin java feito totalmente em Kotlin por mim.
 
 Changelogs :
 
