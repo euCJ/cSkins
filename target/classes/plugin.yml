@@ -1,0 +1,7 @@
+name: cSkin
+version: '1.0'
+main: me.imcj.cskin.CSkin
+api-version: 1.19
+website: 'https://return-3.gitbook.io/cchat/'
+authors: [ImCJ_]
+description: Plugin para um Menu de skins
