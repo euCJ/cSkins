@@ -5,11 +5,17 @@ Plugin voltado a alteração de skins no Minecraft. (1.19)
 Changelogs :
 
 Adicionado sistema de ajuda.
+-
 Testado na versão 1.18
+
 Mensagens redesenhadas.
+
 Bug fixes :
 
 Corrigido, comando duplo.
+
 Corrigido, comando acionado sem permissão.
+
 Ferramenta utilizada:
+
 Kotlin no IntelliJ IDEA
